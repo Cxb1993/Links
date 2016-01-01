@@ -118,7 +118,9 @@
 - Online Markdown Editor: http://dillinger.io/
 
 ## Curiosity
-- Interview Questions: https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+- Interview Questions: 
+    - https://github.com/MaximAbramchuck/awesome-interviews
+    - https://github.com/search?utf8=%E2%9C%93&q=interview+questions
 - IT eBooks: https://it-ebooks.info/
     - https://it-ebooks.info/tag/javascript/
     - https://it-ebooks.info/tag/css/
