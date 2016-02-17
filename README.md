@@ -138,6 +138,12 @@
 - Black swan theory: https://en.wikipedia.org/wiki/Black_swan_theory
 - Antifragile: https://en.wikipedia.org/wiki/Antifragile
 
+## Coolness
+- Derek Sivers https://sivers.org/
+- Business in Singapur Book: http://www.amazon.com/Singapore-2014-Information-Cultural-Entrepreneurs-ebook/dp/B00HMNP8IM
+- Singapur Taxes in Plain English: http://www.guidemesingapore.com/taxation/corporate-tax/singapore-corporate-tax-guide
+- Ghost moving to Singapur: https://blog.ghost.org/moving-to-singapore/
+
 ## CC0 Art
 - https://unsplash.com/license
 - https://www.pexels.com
