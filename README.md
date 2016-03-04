@@ -139,16 +139,65 @@
 - Antifragile: https://en.wikipedia.org/wiki/Antifragile
 
 ## Moving Business to Singapore
-- Incorporate in Singapore: http://www.rikvin.com/
+- Incorporate in Singapore: http://rikvin.com/
 - Derek Sivers https://sivers.org/
-- Business in Singapore Book: http://www.amazon.com/Singapore-2014-Information-Cultural-Entrepreneurs-ebook/dp/B00HMNP8IM
-- Singapore Taxes in Plain English: http://www.guidemesingapore.com/taxation/corporate-tax/singapore-corporate-tax-guide
+- Business in Singapore Book: http://amazon.com/Singapore-2014-Information-Cultural-Entrepreneurs-ebook/dp/B00HMNP8IM
+- Singapore Taxes in Plain English: http://guidemesingapore.com/taxation/corporate-tax/singapore-corporate-tax-guide
 - Ghost moving to Singapore: https://blog.ghost.org/moving-to-singapore/
-- Why Singapore: http://www.guidemesingapore.com/incorporation/introduction/singapore-incorporation-advantages
+- Why Singapore: http://guidemesingapore.com/incorporation/introduction/singapore-incorporation-advantages
+
+## Security
+
+### Reporting WordPress Securty Issues
+- security [at] automattic.com
+- http://hackerone.com
+
+### Organizations
+- http://owasp.org
+- http://hackerone.com
+- http://sucuri.net
+- http://checkpoint.com
+
+### Tools
+- http://unmaskparasites.com/
+- http://sitecheck.sucuri.net/
+- https://wordpress.org/plugins/exploit-scanner/
+- http://wordpress.org/plugins/wordfence/
+- http://wordpress.org/plugins/sucuri-scanner/
+- http://wordpress.org/plugins/better-wp-security/
+- http://wordpress.org/plugins/gotmls/
+
+### Resources
+- http://codex.wordpress.org/Hardening_WordPress
+- https://automattic.com/security/
+- https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/
+- http://blogvault.net/does-wordpress-security-plugin-secure-your-site/
+- http://wpengine.com/blog/wordpress-security-best-practices-white-paper/
+- http://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+- http://en.wikipedia.org/wiki/Same-origin_policy
+- http://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+- http://en.wikipedia.org/wiki/Cross-site_request_forgery
+- http://en.wikipedia.org/wiki/Cross-site_scripting
+- http://en.wikipedia.org/wiki/Web_application_security
+- http://en.wikipedia.org/wiki/Confused_deputy_problem
+- http://en.wikipedia.org/wiki/Replay_attack
+- http://en.wikipedia.org/wiki/Session_fixation
+- http://en.wikipedia.org/wiki/Heap_spraying
+- http://en.wikipedia.org/wiki/Cross-document_messaging
+- http://en.wikipedia.org/wiki/CRIME_(security_exploit)
+- http://en.wikipedia.org/wiki/BREACH_(security_exploit)
+- http://www.acunetix.com/websitesecurity/cross-site-scripting/
+- http://www.troyhunt.com/2013/07/everything-you-wanted-to-know-about-sql.html
+- http://www.cryptofails.com/post/70097430253/crypto-noobs-2-side-channel-attacks
+- http://blog.sucuri.net/2014/09/understanding-the-wordpress-security-plugin-ecosystem.html
+- http://blog.sucuri.net/2015/08/ask-sucuri-how-did-my-wordpress-website-get-hacked-a-tutorial.html
+- http://blog.sucuri.net/2015/06/10-tips-to-improve-your-website-security.html
+- http://blog.sucuri.net/2014/03/understanding-denial-of-service-and-brute-force-attacks-wordpress-joomla-drupal-vbulletin.html
+- http://blog.checkpoint.com/2015/08/04/wordpress-vulnerabilities-1/
 
 ## CC0 Art
-- https://unsplash.com/license
-- https://www.pexels.com
+- http://unsplash.com/license
+- http://www.pexels.com
 - http://gratisography.com/
 - http://stokpic.com/
 - http://skitterphoto.com/
