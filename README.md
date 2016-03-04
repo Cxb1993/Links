@@ -128,6 +128,15 @@
     - https://it-ebooks.info/tag/php/
     - https://cse.google.com/cse?cx=013493258683483688568:xhfa6ctm1ki&q=Elasticsearch#gsc.tab=0&gsc.q=Elasticsearch
 - List of cognitive biases: https://en.wikipedia.org/wiki/List_of_cognitive_biases
+- https://en.wikipedia.org/wiki/Tragedy_of_the_commons
+- https://en.wikipedia.org/wiki/Credentialism_and_educational_inflation
+- https://en.wikipedia.org/wiki/Free_rider_problem
+- https://en.wikipedia.org/wiki/Nash_equilibrium
+- https://en.wikipedia.org/wiki/Social_trap
+- https://en.wikipedia.org/wiki/Somebody_else%27s_problem
+- https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons
+- https://en.wikipedia.org/wiki/Tyranny_of_small_decisions
+- https://en.wikipedia.org/wiki/Unscrupulous_diner%27s_dilemma
 - The Innovator's Dilemma: https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma
 - Technology adoption lifecycle: https://en.wikipedia.org/wiki/Technology_adoption_lifecycle
 - Crossing the Chasm: https://en.wikipedia.org/wiki/Crossing_the_Chasm
